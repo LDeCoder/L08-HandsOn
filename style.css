@@ -1,0 +1,33 @@
+
+header {
+    background-color:azure;
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+}
+
+div {
+    border: 5px blueviolet dashed;
+}
+
+
+p {
+    background-color: aqua;
+
+}
+
+form {
+    background-color: violet;
+    color: white;
+    font-weight: 900;
+}
+
+.red {
+    color: red;
+    color:purple;
+}
+
+
